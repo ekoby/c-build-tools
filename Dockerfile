@@ -7,7 +7,6 @@ RUN apt-get update \
     git \
     cmake make ninja-build \
     gcc g++ \
-    gcc-multilib g++-multilib \
     gcc-arm-linux-gnueabi \
     g++-arm-linux-gnueabi \
     gcc-mingw-w64 \
